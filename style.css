@@ -1,0 +1,51 @@
+body{
+	margin: 0;
+	background-color:currentColor; 	
+}
+.container{
+	margin-left:2em;
+	margin-right: 2em;
+}
+.tb1{
+	border:20vh;
+	width: 100%;
+	height: 50VH;
+}
+.hA{
+text-align: center;		
+}
+article section a{
+		display: inline;
+}
+.nabbar1{
+	background-color: ;
+	position:relative;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0.5rem 1rem;
+	padding-top: 0.5rem;
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+}
+.dv1{
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: -15px;
+	margin-left: -15px;
+}
+.footer1{
+	background-color:#7dcda3;
+	font-size:20px;
+}
+.beinspo{
+	background-color:black;
+}
+.b1{
+	background-color: black;
+}
+header{
+	background-image: url(https://lh3.googleusercontent.com/b34cvu6RoOlcrz_4sz2F1tWCZK3SCSZ0KECcWsyLP02F55E_8f_ue3iJhAzbDZgmR0iz=s162);
+	background-size: 100% 100% ;
+}
